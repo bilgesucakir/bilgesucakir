@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **bilgesucakir@sabanciuniv.edu**
 
 <!--option1 for stats-->
-<!--
+
 <h3 align="left">Github Stats:</h3>
  
 <a href="https://github.com/bilgesucakir">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/bilgesucakir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgesucakir&hide_progress=false&layout=compact&theme=transparent" height="170px" />
 </a>
--->
+
 
 <!--option2 for stats-->
 <!--
