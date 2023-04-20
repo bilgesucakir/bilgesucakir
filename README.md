@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="left">Hi 👋, I'm Bilgesu</h1>
+<h3 align="left">Hi 👋, I'm Bilgesu</h3>
 
 <!--
 - 📚 I'm currently studying Computer Science and Engineering and minoring Business Analytics at Sabancı University
