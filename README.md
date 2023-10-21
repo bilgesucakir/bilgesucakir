@@ -7,4 +7,4 @@
 </a>
 <br><br>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilgesucakir&label=Profile%20views&color=000000&style=flat" alt="bilgesucakir" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilgesucakir&label=Profile%20views&color=000000&style=flat" alt="bilgesucakir" /> </p>
