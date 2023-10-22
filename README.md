@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgesucakir&show_icons=true&theme=transparent" height="170px" />
 </a>
 <a href="https://github.com/bilgesucakir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgesucakir&hide_progress=false&layout=compact&theme=transparent" height="170px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgesucakir&hide_progress=false&layout=compact&theme=transparent&langs_count=10" height="170px" />
 </a>
 <br><br>
 
