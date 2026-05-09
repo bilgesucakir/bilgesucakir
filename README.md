@@ -1,7 +1,5 @@
 # Hi 👋, I'm Bilgesu Çakır
 
-### Associate Software Development Engineer
-
 <h3 align="left">GitHub Trophies</h3>
 
 <p align="left">
