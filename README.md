@@ -20,6 +20,4 @@
 
 <h3 align="left">GitHub Streak</h3>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilgesucakir&" alt="bilgesucakir" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bilgesucakir&theme=shadow-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
