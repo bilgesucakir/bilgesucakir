@@ -21,3 +21,5 @@
 <h3 align="left">GitHub Streak</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bilgesucakir&theme=shadow-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilgesucakir&label=Profile%20views&color=000000&style=flat" alt="bilgesucakir" /> </p>
