@@ -10,13 +10,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,angular,bitbucket,blender,c,cmake,cpp,cs,css,dart,docker,eclipse,firebase,flutter,git)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=github,grafana,hibernate,heroku,html,idea,java,jenkins,javascript,kafka,kali,latex,linux,markdown,maven)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,npm,opencv,openshift,php,postman,powershell,python,pycharm,pytorch,r,raspberrypi,regex)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=scikitlearn,selenium,spring,tensorflow,typescript,visualstudio,vscode,vue,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,c,cpp,cs,css,dart,flutter,html,java,javascript,nodejs,php,python,r,spring,typescript,vue)](https://skillicons.dev)
 
 <h3 align="left">GitHub Streak</h3>
 
